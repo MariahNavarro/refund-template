@@ -45,8 +45,8 @@ O projeto possui uma interface visual intuitiva, com:
 ## 📁 Estrutura do projeto
 
 - `index.html` → Estrutura da página  
-- `style.css` → Estilo visual  
-- `script.js` → Lógica do sistema  
+- `styles.css` → Estilo visual  
+- `scripts.js` → Lógica do sistema  
 
 ## 💡 Observação
 
